@@ -39,15 +39,22 @@ I am a passionate tech enthusiast and a first-year student at **St. Thomas' Coll
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouvik-maity&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Shouvik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik-maity&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shouvik-maity&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Shouvik's GitHub Stats" width="90%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik-maity&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="90%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouvik-maity&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouvik-maity&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="91%" />
 </p>
-
+---
+---
 ## 📈 What I've Been up to
 
 * 📊 **Data Analytics:** Built reproducible data pipelines, cleaning and visualizing datasets to reveal hidden market insights.
