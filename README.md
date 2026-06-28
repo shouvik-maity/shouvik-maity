@@ -47,7 +47,8 @@ I am a passionate tech enthusiast and a first-year student at **St. Thomas' Coll
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouvik-maity&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
----
+
+
 ## 📈 What I've Been up to
 
 * 📊 **Data Analytics:** Built reproducible data pipelines, cleaning and visualizing datasets to reveal hidden market insights.
