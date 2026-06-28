@@ -36,13 +36,24 @@ I am a passionate tech enthusiast and a first-year student at **St. Thomas' Coll
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shouvik-maity&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Shouvik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik-maity&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouvik-maity&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
 
 ## 📈 What I've Been up to
 
 * 📊 **Data Analytics:** Built reproducible data pipelines, cleaning and visualizing datasets to reveal hidden market insights.
 * 🌐 **Web Development:** Designing interactive, clean, and responsive user interfaces from scratch using modern CSS frameworks and vanilla JavaScript.
 * 🧠 **Problem Solving:** Completed a **100 Days of LeetCode** challenge, consistently sharpening my logical thinking and DSA foundations.
-  
+ --- 
 
 ## 🤝 Connect with Me
 
