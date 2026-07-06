@@ -40,11 +40,6 @@ I am a passionate tech enthusiast and a first-year student at **St. Thomas' Coll
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouvik-maity&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Shouvik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik-maity&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouvik-maity&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
