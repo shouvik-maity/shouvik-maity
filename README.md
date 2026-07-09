@@ -36,13 +36,6 @@ I am a passionate tech enthusiast and a first-year student at **St. Thomas' Coll
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 ---
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouvik-maity&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
 
 ## 📈 What I've Been up to
 
