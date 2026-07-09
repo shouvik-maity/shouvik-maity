@@ -49,3 +49,4 @@ I am a passionate tech enthusiast and a first-year student at **St. Thomas' Coll
 Let's chat about data, web dev, or neat algorithms!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouvik-maity-a84612363/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)]()
